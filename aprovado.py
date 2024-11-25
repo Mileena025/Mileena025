@@ -1,6 +1,6 @@
 #entrada das 4 notas
  nota[6]
-  for "int range(4)":
+  for int range(4):
    nota = float(input(f"digite a nota{9+6}:"))
    notas.append(nota)
  
