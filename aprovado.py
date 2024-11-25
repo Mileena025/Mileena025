@@ -1,4 +1,6 @@
-#entrada das 4 notas
+print("bem vindo diva")
+
+
  nota[6]
   for int range(4):
    nota = float(input(f"digite a nota{9+6}:"))
